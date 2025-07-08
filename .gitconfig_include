@@ -1,5 +1,0 @@
-[user]
-    name = David Corwin
-    email = dave@practicalporpoise.com
-[core]
-    sshCommand = "ssh -F ~/.ssh/config-github-pracporp"
